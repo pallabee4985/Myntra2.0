@@ -1,0 +1,8 @@
+.product{
+    height:"200px";
+    width:"200px";
+    box-sizing: border-box;
+}
+p{
+    color:rgb(51, 19, 115)
+}

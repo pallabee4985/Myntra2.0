@@ -1,0 +1,23 @@
+.logo{
+    height:40px;
+    width:40px;
+}
+.red{
+    color:red;
+}
+.box{
+    display: flex;
+    justify-content:space-evenly;
+
+}
+.nav-item{
+   margin: 5px; 
+   padding: 2px;
+}
+.reactIcon{
+    display: flex;
+    justify-content:space-around;
+    gap:40px;
+    margin-right:40px;
+    font-size: 1.5rem;
+}
